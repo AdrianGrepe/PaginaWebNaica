@@ -1,0 +1,13 @@
+Credenciales
+
+PARA ENTRAR AL ADMIN DE DJANGO
+
+user: admin
+Pass: NaicañAdmin!
+
+
+
+PARA LA BASE DE DATOS POSTGRES
+
+user: naicauser
+Pass: na1caw3b
